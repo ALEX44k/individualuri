@@ -14,5 +14,6 @@ print(LILset)
 
 justlist = ("a", "b", "c")
 print(justlist)
+
 thelist = ("tuple", "set", "list")
 print(thelist)
