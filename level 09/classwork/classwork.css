@@ -1,0 +1,10 @@
+.abc123{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 10px;
+}
+.abc123:hover{
+    background-color: blueviolet;
+}
+    

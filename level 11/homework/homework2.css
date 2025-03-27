@@ -1,0 +1,9 @@
+.pizza{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+
+.pizza:hover {
+    background-color: black;
+}

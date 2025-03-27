@@ -1,0 +1,38 @@
+.pizza{
+    color: green;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.aboba{
+    color: green;
+    background-color: black;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15px;
+}
+
+.button1{
+    width: 100px;
+    height: 100px;
+    color: green;
+    background-color: black;
+    margin: 15px;
+    border-radius: 10px;
+    transition: background-color 0.3s ease transform 0.2s ease;
+}
+
+.button1:hover{
+    background-color: brown;
+    transform: scale(1.2);
+}
+
+body{
+    background: linear-gradient(red, blue);
+}

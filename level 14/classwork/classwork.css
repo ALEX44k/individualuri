@@ -1,0 +1,16 @@
+.hibrid{
+    background-color: blue;
+    transition: 0.5sec;
+    border-radius: 15px;
+    height: 130px;
+    width: 140px;
+    padding: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+    .hibrid:hover{
+        background-color: blueviolet;
+        transform: rotate(90deg);
+    }
