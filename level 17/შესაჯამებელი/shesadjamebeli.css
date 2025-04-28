@@ -1,0 +1,93 @@
+.name{
+    color: green;
+    background-color: black;
+    display: flex;
+    justify-content: end;
+}
+
+.body{
+    background: linear-gradient(red, blue);
+}
+
+.button1{
+    color:red;
+    background-color: yellow;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+.button2{
+    color:white;
+    background-color: blue;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+.button3{
+    color: white;
+    background-color: red;
+    border-radius: 15px;
+}
+
+.info{
+    color: green;
+    background-color: black;
+    border-radius: 15px;
+}
+
+.info:hover{
+    background-color: red;
+    color: white;
+}
+
+.button4{
+    color: aqua;
+    background-color: red;
+}
+
+.button5{
+    transition:0.3s;
+    color: blue;
+    background-color: white;
+}
+
+.button5:hover{
+        transform: translateY(2px);
+}
+
+
+.button4:hover{
+    transform: translateY(2px);
+}
+
+
+.button3:hover{
+    transform: translateY(2px);
+}
+
+.button2:hover{
+    transform: translateY(2px);
+}
+
+.button1:hover{
+    transform: translateY(2px);
+}
+
+
+.button6{
+    color: white;
+    background-color: red;
+    border-radius: 15px;
+}
+
+.button7{
+    color: white;
+    background-color: black;
+    border-radius: 15px;
+}
+
+
+
+
+
+

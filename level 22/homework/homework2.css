@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: blueviolet;
+}
+
+
+
+
+.box{
+    width: 100px;
+    height: 100px;
+    color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}

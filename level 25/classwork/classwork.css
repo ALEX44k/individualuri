@@ -1,0 +1,32 @@
+.num12{
+    border-radius: 15px;
+    background-color: bisque;
+    box-shadow: 8px;
+
+}
+
+
+.num14{
+    border-radius: 15px;
+    background-color: bisque;
+    box-shadow: 8px;
+}
+
+
+.num16{
+    border-radius: 10px;
+    background-color: blanchedalmond;
+    box-shadow: 8px;
+}
+
+
+.divchik{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 350px;
+    height: 300px;
+    width: 400px;
+    background-color: red;
+    border-radius: 10px;
+}

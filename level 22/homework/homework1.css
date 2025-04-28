@@ -1,0 +1,18 @@
+.div1{
+    display: flex;
+    justify-content: start;
+    width: 150px;
+    height: 100px;
+    background-color: red;
+    margin: 150px;
+
+}
+
+.div2{
+    display: flex;
+    justify-content: end;
+    width: 100px;
+    height: 150px;
+    background-color: blue;
+    
+}

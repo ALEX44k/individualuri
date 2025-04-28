@@ -1,0 +1,106 @@
+.div1{
+    background: linear-gradient(blue, red);
+    height: 200px;
+    width: 200px;
+    border-radius: 15px;
+    padding: 20px;
+    
+}
+
+
+.div2{
+    background: linear-gradient(blue, red);
+    height: 200px;
+    width: 200px;
+    border-radius: 15px;
+     display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+ 
+}
+
+
+.div3{
+    background: linear-gradient(blue, red);
+    height: 200px;
+    width: 200px;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.photo img{
+    width: 130px;
+    height: 130px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.div1 img{
+    width: 130px;
+    height: 130px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    
+ 
+}
+
+.div2 img{
+    width: 130px;
+    height: 130px;
+    border-radius: 20px;
+    display: flex;
+    align-items: end;
+    justify-content: start;
+ 
+
+}
+
+.div3 img{
+    width: 130px;
+    height: 130px;
+    border-radius: 20px;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+ 
+
+}
+
+
+.div1:hover{
+    width: 230px;
+    height: 230px;
+    transition: 0.4s;
+    box-shadow: 5px 5px 5px 5px;
+    border: 2px solid black;
+    
+}
+
+
+.div2:hover{
+    width: 230px;
+    height: 230px;
+    transition: 0.4s;
+    box-shadow: 5px 5px 5px 5px;
+    border: 2px solid black;
+}
+
+
+.div3:hover{
+    width: 230px;
+    height: 230px;
+    transition: 0.4s;
+    box-shadow: 5px 5px 5px 5px;
+    border: 2px solid black;
+}

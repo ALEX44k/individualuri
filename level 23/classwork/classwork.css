@@ -1,0 +1,38 @@
+.button1{
+    color: blue;
+    background-color: bisque;
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+
+
+.button2{
+    color: red;
+    background-color: bisque;
+    width: 40px;
+    height: 40px;
+
+}
+
+
+
+.div1{
+    width: 70px;
+    height: 70px;
+    background: linear-gradient(blue,red);
+}
+
+
+
+.button1:hover{
+    color: aqua;
+    font-size: 10px;
+    border-radius: 15px;
+}
+
+.button2:hover{
+    color: brown;
+    font-size: 10px;
+    border-radius: 15px;
+}

@@ -1,0 +1,16 @@
+.parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    height: 100px;
+}
+
+
+.child{
+    font-size: medium;
+    color: azure;
+    height: 100px;
+}
+
+

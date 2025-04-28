@@ -1,0 +1,22 @@
+button.abc{
+    color: blue;
+    height: 40px;
+    width: 40px;
+    padding: 17px;
+    display: flex;
+    justify-content: center;
+    font-family: sans-serif;
+    border-radius: 15px;
+    border: 12px;
+    background: linear-gradient(white,red);
+
+}
+
+
+
+button.abc:hover{
+    height: 50px;
+    width: 50px;
+    transition: 0.7s;
+    box-shadow: 15px;
+}
