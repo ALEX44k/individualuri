@@ -1,0 +1,42 @@
+.d1{
+   width: 500px;
+   height: 500px;
+   background-color: black;
+   animation: d1 5s;
+}
+
+@keyframes d1{
+    0%{
+        background-color: beige;
+    }
+    30%{
+        background-color: azure;
+    }
+    40%{
+        background-color: bisque;
+    }
+    50%{
+        background-color: brown;
+    }
+    60%{
+        background-color: red;
+    }
+    70%{
+        background-color: orange;
+    }
+    80%{
+        background-color: red;
+    }
+    90%{
+        background-color: wheat;
+    }
+    100%{
+        background-color: white;
+    }
+}
+
+
+
+
+
+

@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1{
+    color: green;
+    border-radius: 15px;
+    font-size: medium;
+}
+
+h1:hover{
+    color: red;
+    font-size: large;
+    transition: 0.5s;
+}
+
+p{
+    color: green;
+    border-radius: 10px;
+    font-size: medium;
+    margin: 10px;
+}
+
+.about{
+    text-decoration: none;
+    background-color: green;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 5px;
+}
+
+.contact{   
+    text-decoration: none;
+    background-color: green;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 5px;
+}
