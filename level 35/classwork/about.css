@@ -34,10 +34,14 @@ p{
     gap: 20px;
     width: 460px;
     height: 460px;
+    border-radius: 30px;
+    border:  red solid 5px;
 }
 
 .b2{
     gap: 20px;
     width: 460px;
     height: 460px;
+    border-radius: 30px;
+    border:  red solid 5px;
 }

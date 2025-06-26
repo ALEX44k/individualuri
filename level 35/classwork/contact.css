@@ -50,3 +50,8 @@ p{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     border-radius: 5px;
 }
+
+img{
+    border-radius: 30px;
+    border:  red solid 5px;
+}
